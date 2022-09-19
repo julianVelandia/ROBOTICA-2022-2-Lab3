@@ -28,9 +28,9 @@
 
 * Videos del Funcionamiento:
 
-    [![Alt text](https://img.youtube.com/vi/4ulQzXr5LVQ/0.jpg)(https://www.youtube.com/watch?v=4ulQzXr5LVQ)
+    [![Alt text](https://img.youtube.com/vi/4ulQzXr5LVQ/0.jpg)](https://www.youtube.com/watch?v=4ulQzXr5LVQ)
     
-    [![Alt text](https://img.youtube.com/vi/xCUMJ9VfpgM/0.jpg)(https://www.youtube.com/watch?v=xCUMJ9VfpgM)
+    [![Alt text](https://img.youtube.com/vi/xCUMJ9VfpgM/0.jpg)](https://www.youtube.com/watch?v=xCUMJ9VfpgM)
     
 
 ***
